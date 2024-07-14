@@ -1,8 +1,20 @@
-# React + Vite
+# Redux-Proje
+bu proje redux yapısını ele alarak kodlanmıştır. ürün oluşturma, sepete ekleme, çıkarma ve güncelleyip silme işlemlerini yapar.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Kullanılan teknolojiler
 
-Currently, two official plugins are available:
+- @reduxjs/toolkit
+- react
+- react-dom
+- react-icons
+- react-redux
+- react-router-dom
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Ekran Görüntüsü
+
+![](./public/Ekran%20Resmi%202024-07-14%2015.37.55.png)
+
+# Gif
+
+![](./public/Zight%20Recording%202024-07-14%20at%2003.36.23%20PM.gif)
